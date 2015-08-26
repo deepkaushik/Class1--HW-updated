@@ -1,5 +1,6 @@
 # Prev
-This app showing the previous date of date that user enter into it.
+App displaying the previous date of date enter by user.
+
 App Showing use of:
 1. Class/Method
 2. Loops
