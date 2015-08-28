@@ -5,6 +5,7 @@ App Showing use of:
 1. Class/Method
 2. Loops
 3. Inputs/Output by using dialog box.
+4. For loop for infinite inputs.
 
 
 
